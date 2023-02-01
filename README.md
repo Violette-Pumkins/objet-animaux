@@ -1,3 +1,4 @@
 # objet-animaux
 
-commencement de code projet classe 18/11/2020
+Exercice du 18/11/2020
+Programmation orienté objet en Javascript
